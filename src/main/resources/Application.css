@@ -1,0 +1,37 @@
+#pane{
+    -fx-background-color: grey;
+}
+#titleLbl{
+    -fx-text-fill: black;
+    -fx-font-size: 16;
+    -fx-font-weight: bold;
+}
+#txt{
+    -fx-border-color: teal;
+    -fx-highlight-fill: teal;
+    -fx-stroke: teal;
+    -fx-background-color: grey;
+    -fx-text-fill: black;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-stroke-width: 2;
+    -fx-border-width: 2;
+    -fx-font-size: 16;
+}
+#resLbl{
+    -fx-text-fill: black;
+    -fx-font-size: 16;
+    -fx-font-weight: bold;
+}
+#btn{
+    -fx-border-color: teal;
+    -fx-highlight-fill: teal;
+    -fx-stroke: teal;
+    -fx-background-color: grey;
+    -fx-text-fill: black;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-stroke-width: 2;
+    -fx-border-width: 2;
+    -fx-font-size: 18;
+}
